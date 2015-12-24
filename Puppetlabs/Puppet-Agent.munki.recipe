@@ -26,16 +26,16 @@ specifically for each OS, we're setting the 'minimum_os_version' and 'maximum_os
 			</array>
 			<key>description</key>
 			<string>Puppet is a configuration management solution that allows you to define the state of your IT infrastructure, and then automatically enforces the desired state</string>
-			<key>display_name</key>
-			<string>Puppet Agent</string>
-			<key>name</key>
-			<string>PuppetAgent</string>
-			<key>minimum_os_version</key>
-			<string>%OS_VERSION%.0</string>
-			<key>maximum_os_version</key>
-			<string>%OS_VERSION%.99</string>
 			<key>developer</key>
 			<string>Puppetlabs</string>
+			<key>display_name</key>
+			<string>Puppet Agent</string>
+			<key>maximum_os_version</key>
+			<string>%OS_VERSION%.99</string>
+			<key>minimum_os_version</key>
+			<string>%OS_VERSION%.0</string>
+			<key>name</key>
+			<string>PuppetAgent</string>
 			<key>unattended_install</key>
 			<true/>
 		</dict>

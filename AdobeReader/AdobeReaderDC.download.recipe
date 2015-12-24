@@ -6,14 +6,14 @@
 	<string>com.github.autopkg.download.AdobeReaderDC</string>
 	<key>Input</key>
 	<dict>
-        <key>LANGUAGE</key>
-        <string>English</string>
-        <key>MAJOR_VERSION</key>
-        <string>AcrobatDC</string>
-        <key>OS_VERSION</key>
-        <string>10.9.0</string>
+		<key>LANGUAGE</key>
+		<string>English</string>
+		<key>MAJOR_VERSION</key>
+		<string>AcrobatDC</string>
 		<key>NAME</key>
 		<string>AdobeReaderDC</string>
+		<key>OS_VERSION</key>
+		<string>10.9.0</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.autopkg.download.AdobeReader</string>
